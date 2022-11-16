@@ -6,14 +6,14 @@ class Main(Frame):
         super(Main, self).__init__(root)
         self.build()
     def build(self):
-        pass
+        pass``
     def logicalc(self, operation):
         pass
     def update():
        pass
-if __name__ == '__main__':
+if __name__ == '__main__':```
     root = Tk()
-    root["bg"] = "#000"
+    root["bg"] = "#000"``
     root.geometry("485x550+200+200")
     root.title("Калькулятор")
     root.resizable(False, False)
